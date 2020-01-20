@@ -1,12 +1,12 @@
 *{
     margin: 0;
-    padding: 0;
     box-sizing: border-box;
 }
 
 html {
     /* 10px = 1rem */
     font-size: 10px;
+    
 }
 
 body {
@@ -15,12 +15,24 @@ body {
     background-color: #f0efed;
 }
 
+a {
+    color: #ded0ba;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 #title {
     padding: 4rem;
     font-size: 4rem;
     color: #e6e6e6;
     background-color: #5f4c2d;
-    
+}
+
+.subtitle {
+    text-align: center;
 }
 
 #img-div {
@@ -39,9 +51,30 @@ body {
 }
 
 #tribute-info {
+    max-width: 650px;
+    margin: 0 auto;
     font-size: 2rem;
+    text-align: left;
+    
+}
+
+#tribute-info ul li {
+    line-height: 5rem;
+}
+
+#blockquote {
+    margin: 1rem;
+    padding: 1.5rem;
+    text-align: left;
+    border-top: 1rem solid #5f4c2d;
+    border-bottom: 1rem solid #5f4c2d;
+    line-height: 3rem;
 }
 
 #footer {
     font-size: 2rem;
+    padding: 1.5rem;
+    color: white;
+    background-color: #5f4c2d;
+    margin-top: 2rem;
 }
