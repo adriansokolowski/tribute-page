@@ -1,6 +1,8 @@
 # tribute-page
 Tribute page | freecodecamp task
 
+Check [DEMO](https://adriansokolowski.github.io/tribute-page)
+
 ## Assumptions
 
 **User Story #1:** My tribute page should have an element with a corresponding id="main", which contains all other elements.
