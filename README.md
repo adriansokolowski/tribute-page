@@ -1,7 +1,9 @@
-# tribute-page
-Tribute page | freecodecamp task
+# Tribute page | freecodecamp task
 
 Check [DEMO](https://adriansokolowski.github.io/tribute-page)
+
+## Technologies used
+HTML, CSS, RWD
 
 ## Assumptions
 
