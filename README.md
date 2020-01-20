@@ -1,9 +1,11 @@
-# Tribute page | freecodecamp task
+#<p align="center">Tribute page | freecodecamp task</p>
 
 Check [DEMO](https://adriansokolowski.github.io/tribute-page)
 
-## Technologies used
-HTML, CSS, RWD
+## Stack
+- HTML 
+- CSS 
+- RWD
 
 ## Assumptions
 
