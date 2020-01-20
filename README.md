@@ -1,5 +1,5 @@
 # tribute-page
-Tribute page from freecodecamp
+Tribute page | freecodecamp task
 
 ## Assumptions
 
