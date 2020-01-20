@@ -1,4 +1,4 @@
-#<p align="center">Tribute page | freecodecamp task</p>
+# <p align="center">Tribute page | freecodecamp task</p>
 
 Check [DEMO](https://adriansokolowski.github.io/tribute-page)
 
