@@ -1,0 +1,102 @@
+[33mcommit 2294b2eb11edb69b4da392c3ca337074ee12e8b9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Fri Jan 24 14:29:14 2020 +0100
+
+    Update README.md
+
+[33mcommit 04f76ae61be2f9613aabda74ca50e9958c8ad8ca[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Tue Jan 21 01:05:12 2020 +0100
+
+    Add italic font for quote.
+
+[33mcommit 400d444a7f356bbcb8ca607ebe7ce8003ecee919[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Tue Jan 21 00:53:20 2020 +0100
+
+    Add some styling.
+
+[33mcommit 0e23d562a1b0e386cebe537e08183856c6e3533a[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Tue Jan 21 00:20:56 2020 +0100
+
+    Update README.md
+
+[33mcommit 34e0cb3273c14d294cb9b0cfb4e4c72a0bcf9dc0[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Tue Jan 21 00:20:35 2020 +0100
+
+    Update README.md
+
+[33mcommit e52cec7e912d39a0e6d0489003ddf4b1d56fc269[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Tue Jan 21 00:14:30 2020 +0100
+
+    Update README.md
+
+[33mcommit 9c4cb549ea329896b0b3292ffc03d94732465dfb[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Tue Jan 21 00:13:16 2020 +0100
+
+    Update README.md
+
+[33mcommit 3717423ba37e88d0a3f07e145617cdf5c795740f[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Tue Jan 21 00:11:33 2020 +0100
+
+    Additional changes.
+
+[33mcommit f2c0572de6e493ae8dc7882dc7f75fa58ef7f576[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Mon Jan 20 23:59:01 2020 +0100
+
+    Add stylesheet and change structure.
+
+[33mcommit 784f6f6d90464864b6b2fabae889710a9c6f28b2[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Mon Jan 20 23:56:36 2020 +0100
+
+    Add stylesheet and change structure.
+
+[33mcommit 8fbb3a2c02fd425efb256682cc6c8d8c32e915e0[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Mon Jan 20 23:56:21 2020 +0100
+
+    Add stylesheet and change structure.
+
+[33mcommit 9c899e288cea33526922033d19486952eabf088f[m
+Merge: 9661af8 e6ae341
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Mon Jan 20 23:18:40 2020 +0100
+
+    Merge branch 'master' of https://github.com/adriansokolowski/tribute-page
+
+[33mcommit 9661af86449d89198e3f8487a58e9961530269b8[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Mon Jan 20 23:16:21 2020 +0100
+
+    Pass some requirements for test
+
+[33mcommit e6ae341de143b8436695eb2e48cb1ffe75598f4c[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Mon Jan 20 23:04:29 2020 +0100
+
+    Update README.md
+
+[33mcommit 72b75fa1dc21c7793385476bbbba0e0afaccd3af[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Mon Jan 20 23:03:26 2020 +0100
+
+    Update README.md
+
+[33mcommit 84538e4835c237920e23632fd6773a2c6c394936[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Mon Jan 20 23:00:15 2020 +0100
+
+    Create README.md
+
+[33mcommit f7fd3d0fc8d945fbbcdb80bda960a14c42c6bbbb[m
+Author: adriansokolowski <37288976+adriansokolowski@users.noreply.github.com>
+Date:   Mon Jan 20 22:57:58 2020 +0100
+
+    first commit
